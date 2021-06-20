@@ -1,0 +1,4 @@
+#Sun Jun 20 22:34:38 ICT 2021
+base.0=/Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

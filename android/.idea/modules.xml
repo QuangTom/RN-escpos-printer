@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/examples.iml" filepath="$PROJECT_DIR$/.idea/modules/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/examples.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/examples.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1003999991/examples.react-native-bluetooth-escpos-printer.iml" filepath="$PROJECT_DIR$/.idea/modules/1003999991/examples.react-native-bluetooth-escpos-printer.iml" />
+    </modules>
+  </component>
+</project>
