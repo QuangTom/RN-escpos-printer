@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/c3cce4c10d86cba17298d2b4bd48d349/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/08c865a0830c560d1330f18b51d836fe/support-v4-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/2ba4d60b146caf99db77daea36db7130/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/81d4ba953c590498a0d5889e8a674db6/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/591cdc065d43ea600b7c036d68053284/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/e7d08452305aad54df0081f858294ab5/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5e1ef49aafa589b96fd67c99974660ef/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/057dba2578915948c6e59f62ca11632e/support-media-compat-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/c530dbaa6d27e75c856476c3ce8000fe/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/4821623db57c78b8cc8eaafc3ae87c3c/fresco-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/4c612653ac103e10833461abcbadd422/imagepipeline-okhttp3-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/6214d4a5cad522481f5cd9dd127a4d9e/drawee-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5a0c9490b6c52e0f1c989a0e40ec4b33/imagepipeline-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/666d7d59e124cbd97d85451f7b67561c/imagepipeline-base-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/9d0b9379f4a3824469befe478ffbb2b1/soloader-0.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/baquang/.gradle/caches/transforms-2/files-2.1/8abb9acd68f25ee81421426c8cfb9073/android-jsc-r174650/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/a56fc32e0291c3e54e1e1d0f02446a9f/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/47de79255257c44546b7b5f10bed436a/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/cce3b6f2b1662e09806b56fb71b6fae5/fbcore-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5ee7cf1d21dbd4080fbda5bcd13ad082/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/436839234478e6e469f67a3b962231dc/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:2:5-39
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/9d0b9379f4a3824469befe478ffbb2b1/soloader-0.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/9d0b9379f4a3824469befe478ffbb2b1/soloader-0.5.1/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/baquang/.gradle/caches/transforms-2/files-2.1/8abb9acd68f25ee81421426c8cfb9073/android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/baquang/.gradle/caches/transforms-2/files-2.1/8abb9acd68f25ee81421426c8cfb9073/android-jsc-r174650/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#cn.jystudio.janus.escpos.MainActivity
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/baquang/.gradle/caches/transforms-2/files-2.1/f2a4de51d48b38d5c9fee4d7bcc81316/react-native-0.57.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/c3cce4c10d86cba17298d2b4bd48d349/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/c3cce4c10d86cba17298d2b4bd48d349/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/08c865a0830c560d1330f18b51d836fe/support-v4-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/08c865a0830c560d1330f18b51d836fe/support-v4-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/2ba4d60b146caf99db77daea36db7130/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/2ba4d60b146caf99db77daea36db7130/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/81d4ba953c590498a0d5889e8a674db6/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/81d4ba953c590498a0d5889e8a674db6/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/591cdc065d43ea600b7c036d68053284/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/591cdc065d43ea600b7c036d68053284/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/e7d08452305aad54df0081f858294ab5/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/e7d08452305aad54df0081f858294ab5/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5e1ef49aafa589b96fd67c99974660ef/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5e1ef49aafa589b96fd67c99974660ef/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/057dba2578915948c6e59f62ca11632e/support-media-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/057dba2578915948c6e59f62ca11632e/support-media-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/c530dbaa6d27e75c856476c3ce8000fe/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/c530dbaa6d27e75c856476c3ce8000fe/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/4821623db57c78b8cc8eaafc3ae87c3c/fresco-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/4821623db57c78b8cc8eaafc3ae87c3c/fresco-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/4c612653ac103e10833461abcbadd422/imagepipeline-okhttp3-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/4c612653ac103e10833461abcbadd422/imagepipeline-okhttp3-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/6214d4a5cad522481f5cd9dd127a4d9e/drawee-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/6214d4a5cad522481f5cd9dd127a4d9e/drawee-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5a0c9490b6c52e0f1c989a0e40ec4b33/imagepipeline-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5a0c9490b6c52e0f1c989a0e40ec4b33/imagepipeline-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/666d7d59e124cbd97d85451f7b67561c/imagepipeline-base-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/666d7d59e124cbd97d85451f7b67561c/imagepipeline-base-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/9d0b9379f4a3824469befe478ffbb2b1/soloader-0.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/baquang/.gradle/caches/transforms-2/files-2.1/9d0b9379f4a3824469befe478ffbb2b1/soloader-0.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/a56fc32e0291c3e54e1e1d0f02446a9f/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/a56fc32e0291c3e54e1e1d0f02446a9f/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/47de79255257c44546b7b5f10bed436a/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/47de79255257c44546b7b5f10bed436a/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/cce3b6f2b1662e09806b56fb71b6fae5/fbcore-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/cce3b6f2b1662e09806b56fb71b6fae5/fbcore-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5ee7cf1d21dbd4080fbda5bcd13ad082/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/5ee7cf1d21dbd4080fbda5bcd13ad082/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/436839234478e6e469f67a3b962231dc/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/baquang/.gradle/caches/transforms-2/files-2.1/436839234478e6e469f67a3b962231dc/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:react-native-bluetooth-escpos-printer] /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/node_modules/react-native-bluetooth-escpos-printer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/baquang/Desktop/react-native-bluetooth-escpos-printer/examples/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
